@@ -1,6 +1,7 @@
 # 💓 Heart Disease Predictor
 
 This is a machine learning project that predicts the risk of heart disease using patient health data. The app includes a Streamlit web interface and uses multiple models trained on a synthetic heart disease dataset.
+<img width="1920" height="3197" alt="chrome-capture-2025-6-17 (1)" src="https://github.com/user-attachments/assets/0ff8fd98-b263-4b17-8aa1-c427673f9ad6" />
 
 ---
 
